@@ -1,0 +1,19 @@
+.setting__red-dot{
+    background-color: tomato;
+    width: 6px;
+    height:6px;
+    display: flex;
+    border-radius: 3px;
+    position : absolute;
+    right : 20px;
+    top : 27px;
+}
+
+#setting__red-dot{
+    background-color: tomato;
+    width: 6px;
+    height:6px;
+    display: flex;
+    border-radius: 3px;
+    position : absolute;
+}
